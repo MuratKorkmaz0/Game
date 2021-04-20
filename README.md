@@ -1,2 +1,3 @@
 # Lesson-Plan-Automation
-Lesson plan automation 
+
+* Lesson plan automation 
